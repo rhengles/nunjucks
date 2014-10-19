@@ -7,7 +7,7 @@ templating engine for javascript. It is heavily inspired by
 
 ## Installation
 
-`npm install nunjucks`
+`npm install nunjucks-rhengles`
 
 (View the [CHANGELOG](https://github.com/mozilla/nunjucks/blob/master/CHANGELOG.md))
 
